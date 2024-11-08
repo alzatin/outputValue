@@ -39,6 +39,10 @@
             "uniqueID": 1731081738096,
             "ioValues": [
                 {
+                    "name": "geometry",
+                    "ioValue": 1731081736006
+                },
+                {
                     "name": "height",
                     "ioValue": 10
                 }
